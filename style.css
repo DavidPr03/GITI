@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+header img {
+    width: 100%;
+    height: auto;
+}
+.integrante {
+    display: inline-block;
+    margin: 20px;
+}
+.integrante img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
